@@ -1,0 +1,9 @@
+argparse
+pandas
+requests
+time
+json
+docx
+re
+os
+
